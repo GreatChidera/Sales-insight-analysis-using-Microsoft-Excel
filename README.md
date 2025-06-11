@@ -8,6 +8,10 @@
 - [challenges and solutions](#challenges-and-solutions)
 ### project overview
 This project contains data analysis and visualization focused on Mr. Chidera's store performance for the year 2025. Utilizing Microsoft Excel, this project aims to provide insights into sales trends, customer behavior, and operational efficiency.
+![github picture](https://github.com/user-attachments/assets/9eade8d5-4613-4263-b372-ae405ba71a20)
+
+
+
 ### Objectives
 -  Identify Top-Performing Managers: Determine top-performing store managers based on sales performance.
 -  Analyze Sales Performance: Examine sales data to identify trends and areas for improvement.
