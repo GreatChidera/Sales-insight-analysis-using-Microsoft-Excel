@@ -34,6 +34,8 @@ This project contains data analysis and visualization focused on Mr. Chidera's s
    ### Key insights
  - Top-Performing Manager: Spencer Lee was identified as the top-performing manager, driving significant sales growth and excellence.
  - Product Sales Performance: Computech products had higher sales performance compared to other products, indicating strong market demand.
+ - Monthly salary: January was identified to have the highest monthly salary
+ - Sales by category: Assesories was found to have the highest sales by category
 ### Challenges and Solutions
  - Data Quality Issues: Implemented data preprocessing techniques to handle missing values and standardize data formats.
  - Identifying Sales Trends: Utilized charts and tables to identify seasonal fluctuations and product-based sales patterns.
